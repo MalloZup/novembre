@@ -1,5 +1,6 @@
 # novembre
-Elixir useful links for learning purpose
+
+If you want to learn Elixir and functional programming
 
 
 # State:
